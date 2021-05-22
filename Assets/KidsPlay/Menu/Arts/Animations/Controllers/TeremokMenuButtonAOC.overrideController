@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TeremokMenuButtonAOC
+  m_Controller: {fileID: 9100000, guid: caf067c6e66ca7d49aec5b798e95218b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d0101105391ded546b545fea69a7f398, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9d4eea2aace610744b9be0294cad0982, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 66f4225a8042d804abec2d84d674e2aa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8430eb9517620844aa245091e542e4cf, type: 2}
